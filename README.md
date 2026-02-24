@@ -9,6 +9,8 @@ Backend Story Generator App is asking some questions about the story the user wa
 
 Python, FastAPI, OpenAI, SQLite, SQLAlchemy, uvicorn, uv
 
+### All the project requirements and libraries are in pyproject.toml file
+
 ### Build the backend server in the terminal
 
 1. Install all dependencies
